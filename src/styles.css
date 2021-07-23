@@ -1,0 +1,59 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.heading {
+  font-size: 28px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: white;
+  align-content: center;
+}
+body {
+  background-color: darkred;
+}
+.number {
+  position: relative;
+  border: 3px solid dodgerblue;
+  border-radius: 6px;
+  margin-left: 10px;
+}
+p {
+  font-size: 18px;
+}
+.generateB {
+  position: absolute;
+  border: 3px solid black;
+  border: 3px solid dodgerblue;
+  border-radius: 6px;
+  margin-top: 10px;
+  margin-left: -78px;
+}
+.copyB {
+  position: absolute;
+  border: 3px solid rgb(37, 29, 29);
+  border: 3px solid dodgerblue;
+  border-radius: 6px;
+  margin-top: 10px;
+  margin-left: x;
+  width: 100px;
+}
+.complexity {
+  width: 80px;
+  height: 23px;
+  border-radius: 6px;
+  border: 3px solid dodgerblue;
+  margin-left: 10px;
+}
+.output {
+  color: white;
+}
+.Length {
+  position: relative;
+  margin-top: 50px;
+  color: white;
+}
+.Type {
+  position: relative;
+  margin-top: 40px;
+  color: white;
+}
